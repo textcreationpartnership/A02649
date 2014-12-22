@@ -35,17 +35,36 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A nevv discourse of a stale subiect, called the metamorphosis of Aiax: vvritten by Misacmos, to his 
+
+1. A
+LETTER VVRITTFN
+BY A GENTLEMAN
+OF GOOD WORTH, TO
+the Author of this booke.
+
+1. THE ANSWER
+TO THE LETTER.
+
+1. THE PROLOGVE
+TO THE READER OF
+the Metamorphω-sis of AIAX.
+
+1. A short aduertisment of the author
+to the Reader.
+
 #####Body#####
+
+1. THE METAMORPHOSIS
+OF AIAX.
 THere was a very tall and seruiceable
 Gentleman, sometime
 Lieutenant of the ordinance,
 called M. Iaq
-1. THE SECOND SECTION,
+    _ THE SECOND SECTION,
 prouing the matter not to be
 contemptible.
 
-1. THE THIRD SECTION,
+    _ THE THIRD SECTION,
 shewing the forme, and how it
 may be reformed.
 
